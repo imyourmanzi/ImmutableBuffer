@@ -1,4 +1,4 @@
-import { ImmutableBuffer } from '../lib/ImmutableBuffer';
+import { ImmutableBuffer } from '..';
 
 describe('ImmutableBuffer', () => {
   it('has all non-modifier methods of a Buffer', () => {
